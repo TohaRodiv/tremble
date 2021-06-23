@@ -1,0 +1,44 @@
+{
+  "name": "tremble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TohaRodiv/tremble.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TohaRodiv/tremble/issues"
+  },
+  "homepage": "https://github.com/TohaRodiv/tremble#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/node": "^15.12.2",
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.6.3",
+    "browser-sync": "^2.26.14",
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^2.0.1",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.1",
+    "ts-node": "3.3.0",
+    "typescript": "^4.3.2"
+  }
+}
